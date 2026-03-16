@@ -8,7 +8,7 @@ Me destaco por mi organización, paciencia y la capacidad de mantener la calma a
 
 ---
 
-## 🚀 Stack Tecnológico
+## Stack Tecnológico
 
 **Backend:** Node.js, PostgreSQL, Firebase, NestJS  
 **Frontend:** React, Next.js  
@@ -18,7 +18,7 @@ Me destaco por mi organización, paciencia y la capacidad de mantener la calma a
 
 ---
 
-## 📌 Proyectos Destacados
+## Proyectos Destacados
 
 ### SmashCenter (Proyecto Grupal - Henry, 2026)
 
@@ -29,7 +29,7 @@ Incluye envío automático de emails, registro y login, autenticación mediante 
 
 🔗 [Repositorio BACK](https://github.com/SmashPF/Back-Smash-Center-PF) | 🔗 [Repositorio FRONT](https://github.com/SmashPF/Front-Smash-Center-PF) | 🌐 [Demo](https://smashcenter.vercel.app/)
 
-## 🧑‍🎓 Educación
+## Educación
 
 **Soy Henry - Bootcamp Full Stack Web Developer (2025-2026)**  
 +800 horas de programación intesiva en JavaScript, React, Node.js, PostgreSQL y metodologías ágiles (SCRUM)
