@@ -1,16 +1,30 @@
-## Hi there 👋
+# Máximo Sposetti
+### Backend Developer | NestJS - Node.js - TypeScript - JavaScript - PostgreSQL
 
-<!--
-**maximosposetti/maximosposetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Santa Fe, Argentina  
 
-Here are some ideas to get you started:
+Soy Desarrollador Backend Junior enfocado en NestJS, Node.js, TypeScript y JavaScript, con experiencia en bases de datos (MySQL, MongoDB), integración de APIs REST y estructuración de proyectos desde el lado del backend.  
+Me destaco por mi organización, paciencia y la capacidad de mantener la calma ante los desafíos. Disfruto trabajar en equipo y seguir aprendiendo tecnologías modernas para aportar valor en proyectos reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Stack Tecnológico
+
+**Backend:** Node.js, PostgreSQL, Firebase, NestJS  
+**Frontend:** React, Next.js  
+**Estado & Autenticación:** Context API, JWT, OAuth  
+**Herramientas:** Git, GitHub, Vercel, Figma, VS Code  
+**Lenguajes:** JavaScript, TypeScript  
+
+---
+
+## 📌 Proyectos Destacados
+
+### SmashCenter (Proyecto Grupal - Henry, 2026)
+
+Plataforma turnera para reservas de canchas de pádel con modalidad de pago, sistema de reseñas, dashboard de usuario y dashboard administrador con gráficos y CRUD de canchas, reservas y usuarios.  
+Incluye envío automático de emails, registro y login, autenticación mediante terceros e integración de geolocalización.
+
+**Rol:** Full-Stack Developer  
+
+🔗 [Repositorio BACK](https://github.com/SmashPF/Back-Smash-Center-PF) | 🔗 [Repositorio FRONT](https://github.com/SmashPF/Front-Smash-Center-PF) | 🌐 [Demo](https://smashcenter.vercel.app/)
