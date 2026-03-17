@@ -34,7 +34,7 @@ Incluye envío automático de emails, registro y login, autenticación mediante 
 **Soy Henry - Bootcamp Full Stack Web Developer (2025-2026)**  
 +800 horas de programación intesiva en JavaScript, React, Node.js, PostgreSQL y metodologías ágiles (SCRUM)
 
-**UTN San Nicolás - Tecnicatura Universitaria en Programación(2022-2023)**  
+**UTN San Nicolás - Tecnicatura Universitaria en Programación (2022-2023)**  
 Formación universitaria en programación orientada al desarrollo de software, estructuras de datos, bases de datos, lógica de programación y desarrollo de aplicaciones. Carrera cursada hasta segundo año.
 
 ---
