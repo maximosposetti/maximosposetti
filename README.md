@@ -42,7 +42,7 @@ Formación universitaria en programación orientada al desarrollo de software, e
 ## 📬 Contacto
 
 **📧 Email: maximosposetti@hotmail.com**  
-**💼 [LinkedIn](www.linkedin.com/in/máximo-giuliano-sposetti-580693291)**  
+**💼 [LinkedIn](https://linkedin.com/in/máximo-giuliano-sposetti-580693291)**  
 
 ---
 
