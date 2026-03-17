@@ -1,4 +1,4 @@
-# Máximo Sposetti
+# Máximo Giuliano Sposetti
 ### Backend Developer | NestJS - Node.js - TypeScript - JavaScript - PostgreSQL
 
 📍 Santa Fe, Argentina  
